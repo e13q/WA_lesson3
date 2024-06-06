@@ -28,7 +28,7 @@ Change current directory in console to project directory by cd command.
 
 Run script by command:
 
-`py main.py`
+`py main.py url`
 
 #### Linux OS
 
@@ -38,22 +38,17 @@ Change current directory in console to project directory by cd command.
 
 Run script by command:
 
-`python3 main.py`
+`python3 main.py url`
 
 ### Examples of running script
 
-Running example
-
-![Example3](https://github.com/e13q/WA_lesson2/assets/110967581/2c701e76-a78c-48b0-affd-d188f886bd5c)
-
-
 Get shorten link
 
-![Example](https://github.com/e13q/WA_lesson2/assets/110967581/f84f1393-5a76-4bff-aea4-8874e15572aa)
+![Example4](https://github.com/e13q/WA_lesson3/assets/110967581/c77d104d-9eb8-43f4-b3e4-13844267dd09)
 
 Get info about shorten link
 
-![Example2](https://github.com/e13q/WA_lesson2/assets/110967581/f5069073-2032-4d2e-b30a-7268080ef557)
+![Example5](https://github.com/e13q/WA_lesson3/assets/110967581/c653a2a1-24f9-43be-a50e-87322ad39016)
 
 ### Project Goals
 
